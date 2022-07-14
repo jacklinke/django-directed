@@ -63,5 +63,5 @@ wheel = "^0.37.0"
 "zest.releaser" = "^6.22.0"
 
 [build-system]
-requires = ["poetry-core^1.0.0"]
+requires = ["poetry-core=^1.0.0"]
 build-backend = "poetry.core.masonry.api"
